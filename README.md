@@ -1,4 +1,4 @@
-**PhonePe Pulse Data Visualization**
+# PhonePe Pulse Data Visualization and Exploration
 
 This project aims to extract, transform, and visualize data from the PhonePe Pulse GitHub repository. The goal is to provide insights and information in a user-friendly manner through a live geo visualization dashboard. The project includes steps to extract data, transform it, insert it into a MySQL database, and create an interactive dashboard using Streamlit and Plotly. The dashboard allows users to select different facts and figures for display.
 
